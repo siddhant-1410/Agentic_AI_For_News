@@ -1,0 +1,4 @@
+crewai
+litellm
+requests
+python-dotenv
